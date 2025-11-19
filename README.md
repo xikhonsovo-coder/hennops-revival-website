@@ -27,7 +27,7 @@ This stage focused on developing and updating the website based on feedback and 
 - Updated folder structure and file organization
 - Updated README with Part 2 information, changelog, and references
 
-### Part 1 Changes (Previous Work)
+### Part 1 Changes 
 - Developed initial proposal
 - Added mission, vision, objectives, and target audience
 - Planned website layout and content structure
