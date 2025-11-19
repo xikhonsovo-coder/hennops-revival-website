@@ -35,4 +35,9 @@ This stage focused on developing and updating the website based on feedback and 
 
 ---
 
-
+## References
+- Hennops Revival. (2025). About Us. https://hennopsrevival.co.za/
+- Lauby, S. (2022). Best Practices for Nonprofit Websites. Nonprofit Tech for Good.
+- Climate360. (2024). Hennops Revival Finalist Profile. https://www.climate360.co.za/
+- GoodThingsGuy. (2022). Hennops Cleanup Article.
+- Wikipedia. (2024). Hennops River. https://en.wikipedia.org/wiki/Hennops_River
